@@ -126,8 +126,10 @@ print("Server says:", data)
 client_socket.close()
 ```
 ## server output:
-![alt text](<Screenshot 2026-10-27 135944.png>)
+<img width="1855" height="787" alt="Screenshot 2026-10-27 143449" src="https://github.com/user-attachments/assets/c8d6cd68-468b-400a-a866-c8cf92d22709" />
+
 ## client output:
-![alt text](<Screenshot 2026-10-27 140006.png>)
+<img width="1852" height="771" alt="Screenshot 2026-10-27 143533" src="https://github.com/user-attachments/assets/40a756ce-be9b-43c0-ae11-95aa4cb0e67a" />
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
